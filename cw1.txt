@@ -1,0 +1,16 @@
+{
+
+     public static void main(String []args){
+        int x  = 8;
+        int y = 4;
+        
+        int j = x + y;
+        int k = x * y;
+        boolean a = j > k;
+        
+        System.out.println(j);
+                System.out.println(k);
+        System.out.println(a);
+
+     }
+}
